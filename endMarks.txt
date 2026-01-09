@@ -1,0 +1,7 @@
+OS - 9
+DBMS - 9
+MO - 9
+BC - 9
+AI & ML - 9
+FM - 9
+FEDF - 9
